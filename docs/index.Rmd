@@ -1,6 +1,6 @@
 ---
-title: "Beatriz Milz's CV"
-author: Beatriz Milz
+title: "Udi Alter's CV"
+author: Udi Alter
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
@@ -16,7 +16,7 @@ library(metathis)
 meta() %>%
   meta_name("github-repo" = "beatrizmilz/resume") %>% 
   meta_social(
-    title = "Beatriz Milz CV",
+    title = "Udi Alter CV",
     description = paste(
       "CV made with the packages RMarkdown, pagedown, datadrivencv."
     ),
