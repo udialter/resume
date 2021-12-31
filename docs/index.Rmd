@@ -83,7 +83,7 @@ if(params$pdf_mode) {
 
 <center>
 
-![Udi Alter](https://github.com/udialter/resume/blob/master/docs/img/Profile%20Pic%20Udi%20.jpg?raw=true){width="50%" style="border-radius: 50%;"}
+![Udi Alter](https://github.com/udialter/resume/blob/master/docs/img/profilepicUA.jpg?raw=true){width="70%" style="border-radius: 50%;"}
 
 </center>
 
@@ -134,10 +134,10 @@ Last updated on `r Sys.Date()`.
 CV %<>% print_section('education')
 ```
 
-## Research Projects {data-icon="laptop"}
+## AWARDS, HONOURS, AND SCHOLARSHIPS {data-icon="award"}
 
 ```{r}
-CV %<>% print_section('research_projects')
+CV %<>% print_section('awards_scholarships')
 ```
 
 ## Teaching Experience {data-icon="chalkboard-teacher"}
