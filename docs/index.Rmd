@@ -84,28 +84,29 @@ Aside
 
 
 <center>
-![Beatriz Milz](https://beatrizmilz.com/about/sidebar/avatar.jpeg){width=80% style='border-radius: 50%;'}
+![Udi Alter](https://beatrizmilz.com/about/sidebar/avatar.jpeg){width=80% style='border-radius: 50%;'}
 </center>
 
 
 
 ### CONTACT
 
-<i class="fa fa-chalkboard-teacher"></i> Talks: [beatrizmilz.com/talk/](https://beatrizmilz.com/talk/)
+<i class="fa fa-envelope"></i> udialter@yorku.ca
 
-<i class="fa fa-envelope"></i> milz.bea@gmail.com
+<i class="fa fa-twitter"></i> [`@`UdiAlter](https://twitter.com/UdiAlter)
 
-<i class="fa fa-twitter"></i> [Twitter: `@`BeaMilz](https://twitter.com/BeaMilz)
+<i class="fa fa-github"></i> [`@`udialter](https://github.com/udialter)
 
-<i class="fa fa-github"></i> [GitHub: `@`beatrizmilz](https://github.com/beatrizmilz)
+<i class="fab fa-orcid"></i> <a href='https://orcid.org/0000-0003-3133-839X'> Orcid </a>
 
-<i class="fa fa-external-link-alt"></i> <a href='http://lattes.cnpq.br/5150665880581477'> Lattes </a>
+<i class="fa fa-home"></i> [udialter.com](https://udialter.com)
 
-<i class="fab fa-orcid"></i> <a href='https://orcid.org/0000-0002-3064-4486'> Orcid </a>
+<i class="fab fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/udalt/)
 
-<i class="fa fa-home"></i> [beatrizmilz.com](https://beatrizmilz.com)
+<i class="fa fa-home"></i> [osf.io/dwn4f/](https://osf.io/dwn4f/)
 
-<i class="fab fa-discourse"></i> [Discourse](https://discourse.curso-r.com/u/beatrizmilz/summary)
+<i class="fab fa-researchgate"></i> [researchgate.net/profile/Udi-Alter](https://www.researchgate.net/profile/Udi-Alter)
+
 
 
 Languages {#languages}
