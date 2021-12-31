@@ -21,8 +21,8 @@ meta() %>%
     description = paste(
       "CV made with the packages RMarkdown, pagedown, datadrivencv."
     ),
-    url = "https://beatrizmilz.github.io/resume/index.html",
-    image = "https://beatrizmilz.github.io/resume/img/share-card.png",
+    url = "https://udialter.com",
+    #image = "https://beatrizmilz.github.io/resume/img/share-card.png",
     image_alt = paste(
       "Udi Alter CV"
     ),
@@ -55,7 +55,7 @@ source("cv_printing_functions.r")
 
 # Read in all data and initialize a CV printer object
 CV <- create_CV_object(
-  data_location = "https://docs.google.com/spreadsheets/d/1iBxpNzwZWOrOwR__Y4FNDQ_3tpw-0trS0PVigsS4z6w/edit?usp=sharing",  
+  data_location = "https://docs.google.com/spreadsheets/d/1GpZSyga2f0ZIwMqX6UOw8WEXRIiQORQMa1JElFCfyW8/edit?usp=sharing",  
   pdf_mode = params$pdf_mode
 )
 
