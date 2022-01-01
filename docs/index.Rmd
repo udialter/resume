@@ -83,7 +83,7 @@ if(params$pdf_mode) {
 
 <center>
 
-![Udi Alter](https://github.com/udialter/resume/blob/master/docs/img/profilepicUA.jpg?raw=true){width="70%" style="border-radius: 50%;"}
+![Udi Alter](https://github.com/udialter/resume/blob/master/docs/img/Udis.png?raw=true){width="70%" style="border-radius: 50%"}
 
 </center>
 
@@ -103,6 +103,7 @@ if(params$pdf_mode) {
 
 <i class="fa fa-home"></i> [osf.io/dwn4f/](https://osf.io/dwn4f/)
 
+<br>
 
 ## Languages {#languages}
 
@@ -146,11 +147,6 @@ CV %<>% print_section('awards_scholarships')
 CV %<>% print_section('teaching_experience')
 ```
 
-## Scientific Journals {data-icon="book"}
-
-```{r}
-CV %<>% print_section('scientific_journals')
-```
 
 ::: {.aside}
 I'm an active participant in the local R community: I'm a co-organizer of R-Ladies São Paulo since 2018, and I have taught in several meetups and workshops. All the slides are available here: [beatrizmilz.com/talk/](https://beatrizmilz.com/talk/)
@@ -198,26 +194,9 @@ I'm also a co-organizer of [satRday São Paulo](https://saopaulo2019.satrdays.or
 <i class="fab fa-css3-alt"></i> `CSS`
 :::
 
-## Selected Oral Communications {data-icon="chalkboard-teacher"}
+## PROFESSIONAL WORKSHOPS {data-icon="book"}
 
 ```{r}
-CV %<>% print_section('oral_communications')
+CV %<>% print_section('workshops')
 ```
 
-## Selected Publications {data-icon="chalkboard-teacher"}
-
-```{r}
-CV %<>% print_section('publications_books')
-```
-
-## Selected Workshops Taught {data-icon="book"}
-
-```{r}
-CV %<>% print_section('workshops_taught')
-```
-
-## Selected Short Courses {data-icon="book"}
-
-```{r}
-CV %<>% print_section('short_courses')
-```
